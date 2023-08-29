@@ -1,10 +1,10 @@
 
-# project title
+# Project title
 todo app
-# project description
+# Project description
 To-Do List project is an application specially built to keep track of errands or tasks that need to be done. This application will be like a task keeper where the user would be able to enter the tasks that they need to do. Once they are done with their tasks they can also remove them from the list
 
-# project preview
+# Project preview
 
 ![1-1](https://github.com/walyazji/todo/assets/80062908/3fba7db0-d74f-462c-9f3a-a6317cd81b75)
 ![2-2](https://github.com/walyazji/todo/assets/80062908/da8d663e-a4ed-4725-bd6e-a18a71debb5b)
